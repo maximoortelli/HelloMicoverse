@@ -4,7 +4,7 @@
   <img src="cat-black-face.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Portfolio: setup and mobile first</b></h3>
+  <h3><b>Hello Microverse project</b></h3>
 
 </div>
 
@@ -16,7 +16,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
